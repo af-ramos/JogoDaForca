@@ -1,0 +1,38 @@
+C:\Users\Aluno\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\bin\Debug\THE FORCA - 2018 CSharp Version.exe.config
+C:\Users\Aluno\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\bin\Debug\THE FORCA - 2018 CSharp Version.exe
+C:\Users\Aluno\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\bin\Debug\THE FORCA - 2018 CSharp Version.pdb
+C:\Users\Aluno\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE_FORCA___2018_CSharp_Version.Properties.Resources.resources
+C:\Users\Aluno\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.exe
+C:\Users\Aluno\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.pdb
+C:\Users\Aluno\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE_FORCA___2018_CSharp_Version.Menu.resources
+C:\Users\arfrr\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\bin\Debug\THE FORCA - 2018 CSharp Version.exe.config
+C:\Users\arfrr\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\bin\Debug\THE FORCA - 2018 CSharp Version.exe
+C:\Users\arfrr\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\bin\Debug\THE FORCA - 2018 CSharp Version.pdb
+C:\Users\arfrr\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.csprojAssemblyReference.cache
+C:\Users\arfrr\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE_FORCA___2018_CSharp_Version.Jogo.resources
+C:\Users\arfrr\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE_FORCA___2018_CSharp_Version.Menu.resources
+C:\Users\arfrr\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE_FORCA___2018_CSharp_Version.Properties.Resources.resources
+C:\Users\arfrr\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.csproj.GenerateResource.cache
+C:\Users\arfrr\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.csproj.CoreCompileInputs.cache
+C:\Users\arfrr\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.exe
+C:\Users\arfrr\Desktop\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.pdb
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.csprojAssemblyReference.cache
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE_FORCA___2018_CSharp_Version.Jogo.resources
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE_FORCA___2018_CSharp_Version.Menu.resources
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE_FORCA___2018_CSharp_Version.Properties.Resources.resources
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.csproj.GenerateResource.cache
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.csproj.CoreCompileInputs.cache
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.exe
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.pdb
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\bin\Debug\THE FORCA - 2018 CSharp Version.exe.config
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\bin\Debug\THE FORCA - 2018 CSharp Version.exe
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\bin\Debug\THE FORCA - 2018 CSharp Version.pdb
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE_FORCA___2018_CSharp_Version.Ganhar.resources
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE_FORCA___2018_CSharp_Version.Perder.resources
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\bin\Debug\THE FORCA - 2018 CSharp Version.exe.manifest
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\bin\Debug\THE FORCA - 2018 CSharp Version.application
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.exe.manifest
+C:\Users\arfrr\Downloads\THE FORCA - 2018 CSharp Version\THE FORCA - 2018 CSharp Version\obj\Debug\THE FORCA - 2018 CSharp Version.application
